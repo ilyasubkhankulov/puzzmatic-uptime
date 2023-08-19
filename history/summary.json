@@ -4,19 +4,19 @@
     "url": "https://www.puzzmatic.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.puzzmatic.com.ico",
     "slug": "puzzmatic",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "status": "up",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-08-19": 10
+      "2023-08-19": 22
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://staging.puzzmatic.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.puzzmatic.com.ico",
     "slug": "puzzmatic-staging",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "status": "up",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2023-08-19": 10
+      "2023-08-19": 22
     }
   }
 ]
