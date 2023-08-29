@@ -48,17 +48,19 @@
     "url": "https://ph.puzzmatic.com",
     "icon": "https://icons.duckduckgo.com/ip3/ph.puzzmatic.com.ico",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2031,
+    "timeDay": 2031,
+    "timeWeek": 2031,
+    "timeMonth": 2031,
+    "timeYear": 2031,
+    "dailyMinutesDown": {
+      "2023-08-29": 0
+    }
   }
 ]
