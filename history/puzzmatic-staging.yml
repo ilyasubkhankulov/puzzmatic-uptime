@@ -1,7 +1,7 @@
 url: https://staging.puzzmatic.com
-status: up
-code: 200
-responseTime: 341
-lastUpdated: 2024-02-14T21:56:47.706Z
+status: down
+code: 502
+responseTime: 91
+lastUpdated: 2024-02-14T22:50:07.150Z
 startTime: 2023-08-19T09:10:17.428Z
 generator: Upptime <https://github.com/upptime/upptime>
