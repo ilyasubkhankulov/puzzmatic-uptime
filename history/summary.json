@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 190,
-    "timeDay": 107,
-    "timeWeek": 118,
-    "timeMonth": 111,
+    "timeDay": 119,
+    "timeWeek": 115,
+    "timeMonth": 110,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-02-15": 59,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 185,
-    "timeDay": 123,
-    "timeWeek": 104,
-    "timeMonth": 113,
+    "time": 184,
+    "timeDay": 101,
+    "timeWeek": 108,
+    "timeMonth": 111,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2024-02-15": 59,
@@ -53,22 +53,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/ph.puzzmatic.com.ico",
     "slug": "analytics",
     "status": "down",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 572,
-    "timeDay": 83,
-    "timeWeek": 88,
-    "timeMonth": 98,
-    "timeYear": 400,
+    "time": 571,
+    "timeDay": 72,
+    "timeWeek": 81,
+    "timeMonth": 97,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-02-15": 71,
       "2024-02-14": 15,
       "2024-02-05": 1143,
-      "2024-01-25": 143,
-      "2023-11-07": 34
+      "2024-01-25": 143
     }
   }
 ]
